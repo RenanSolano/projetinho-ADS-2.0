@@ -2,7 +2,7 @@
 
 ## Dados pessoais
 - Idade: 18 
-- E-mail:miguelsoares719@gmail.com
+- E-mail:xxxxxxxxxxx
 - Cidade Natal: Marilia
 - Celular:xxxxxxxxxxxxxxxxxxxxxx
 ......
