@@ -2,11 +2,8 @@
 
 ....
 
-## Dados Pessoais
+## Experiencia
+    
+    -Aluno Unimar
 
-
-    -idade: 18
-
-    -e-mail:xxxxxxxxxx
-
-    -telefone:xxxxxxxxxxxxxx
+    - Analise e desenvolvimento de Sistemas
