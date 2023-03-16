@@ -1,17 +1,15 @@
 # Miguel
+----
+
 ## Dados pessoais 
-    -e-mail:xxxxxxxxxx
+- e-mail:xxxxxxxxxx
+- telefone:xxxxxxxxxxxxx
+- Analise e desenvolvimento de Sistemas
+----
 
-    -telefone:xxxxxxxxxxxxx
-=======
-    - Analise e desenvolvimento de Sistemas
-
-
- 
-
-## Experiencia
-    
+## Experiencia  
     -Aluno Unimar
+----
 
 
  
