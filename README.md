@@ -5,6 +5,8 @@
 ## Dados Pessoais
 
 
--idade: 18
--e-mail:xxxxxxxxxx
--telefone:xxxxxxxxxxxxxx
+    -idade: 18
+
+    -e-mail:xxxxxxxxxx
+
+    -telefone:xxxxxxxxxxxxxx
