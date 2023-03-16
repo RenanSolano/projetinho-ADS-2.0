@@ -1,12 +1,17 @@
 ## Miguel
 
-....
-
-## Dados Pessoais
-
-
-    -idade: 18
-
     -e-mail:xxxxxxxxxx
 
     -telefone:xxxxxxxxxxxxx
+=======
+    - Analise e desenvolvimento de Sistemas
+
+
+ 
+
+## Experiencia
+    
+    -Aluno Unimar
+
+
+ main
