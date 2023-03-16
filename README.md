@@ -8,7 +8,12 @@
 ----
 
 ## Experiencia  
-    -Aluno Unimar
+- Aluno Unimar
+----
+
+## Hobbies
+- Sl
+- Nao sei
 ----
 
 
